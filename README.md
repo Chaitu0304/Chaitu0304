@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi there! I'm Chaitanya 👋  
+A full-stack web developer with a passion for crafting clean, responsive interfaces and powerful backend solutions. I enjoy building seamless workflows using Git, GitHub Desktop, and Git Bash, and I’m currently refining my Git expertise one branch at a time.
 
 <!--
 **Chaitu0304/Chaitu0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
