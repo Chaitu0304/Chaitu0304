@@ -1,36 +1,43 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chaitanya%20Alubilli&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20BTech%20CSE&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:1a1a3e,70:2d1b69,100:0d0d2b&height=220&section=header&text=Chaitanya%20Alubilli&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20BTech%20CSE&descAlignY=60&descSize=20&animation=fadeIn&fontAlign=50" width="100%" />
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Aspiring+React+%26+Node.js+Developer;Building+Scalable+Web+Applications;Open+Source+Enthusiast;Full-Stack+Developer+in+Progress" alt="Typing SVG" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=9B59F5&center=true&vCenter=true&width=650&lines=🚀+Aspiring+React+%26+Node.js+Developer;🏗️+Building+Scalable+Web+Applications;🤝+Open+Source+Enthusiast;🧠+Hackathon+Participant+(Walmart+Sparkathon);📚+BTech+CSE+%7C+Lifelong+Learner" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Chaitu0304&color=7c3aed&style=flat-square&label=Profile+Views" />
-&nbsp;
-<a href="https://github.com/Chaitu0304?tab=followers">
-  <img src="https://img.shields.io/github/followers/Chaitu0304?label=Followers&style=flat-square&color=7c3aed" />
+<!-- Badges -->
+<a href="https://github.com/Chaitu0304">
+  <img src="https://komarev.com/ghpvc/?username=Chaitu0304&color=9b59f5&style=flat-square&label=Profile+Views" />
 </a>
+<a href="https://github.com/Chaitu0304?tab=followers">
+  <img src="https://img.shields.io/github/followers/Chaitu0304?label=Followers&style=flat-square&color=9b59f5&labelColor=1a1a3e" />
+</a>
+<a href="https://www.linkedin.com/in/chaitanya-alubilli-18a686289/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-9b59f5?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a3e" />
+</a>
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-00d4aa?style=flat-square&labelColor=1a1a3e" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-```javascript
-const chaitanya = {
-  name: "Chaitanya Alubilli",
-  role: "Aspiring Full-Stack Developer",
-  education: "BTech CSE (In Progress)",
-  focus: ["React", "Node.js", "Full-Stack Web Development"],
-  hackathon: "Walmart Sparkathon — AI-powered In-Store Navigation",
-  passion: "Building scalable, user-friendly applications",
-  goal: "Collaborate on open-source & solve real-world problems",
-  contact: "chaitanyaalubilli33@gmail.com",
+```ts
+const chaitanya: Developer = {
+  name:        "Chaitanya Alubilli",
+  alias:       "Chaitu0304",
+  role:        "Aspiring Full-Stack Developer",
+  education:   "BTech CSE (In Progress)",
+  location:    "India 🇮🇳",
+  stack:       ["React", "Node.js", "JavaScript", "PHP", "MySQL", "Python"],
+  hackathon:   "Walmart Sparkathon → AI-powered In-Store Navigation",
+  interests:   ["Open Source", "Web Apps", "API Integration", "UI/UX"],
+  contact:     "chaitanyaalubilli33@gmail.com",
+  funFact:     "I build things to solve real problems, not just to ship code.",
 };
 ```
 
@@ -45,8 +52,8 @@ const chaitanya = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend & Database**
 
@@ -57,6 +64,7 @@ const chaitanya = {
 **Languages & Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -65,71 +73,88 @@ const chaitanya = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<div align="center">
+> All repositories on my GitHub — from full-stack platforms to mini tools.
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🏠 [**PGLife**](https://github.com/Chaitu0304/PGLIFE) | Full-stack platform helping students find PGs near their college or workplace | PHP · MySQL · JS · CSS |
-| 🗺️ [**Future Track**](https://github.com/Chaitu0304/Future-Track) | Career roadmap tool guiding students from 10th grade onward | JavaScript · HTML · CSS |
-| 🛒 [**Smart Instore Navigation**](https://github.com/Chaitu0304/Smart-Instore-Navigation) | AI-powered in-store navigation system — Walmart Sparkathon project | TypeScript · AI |
+### 🌟 Featured Projects
 
-</div>
+| # | Project | Description | Tech | Stars |
+|---|---------|-------------|------|-------|
+| 1 | 🏠 [**PGLife**](https://github.com/Chaitu0304/PGLIFE) | Full-stack platform helping students find PG accommodations near college or work | PHP · MySQL · JS · CSS | ⭐ 1 |
+| 2 | 🗺️ [**Future Track**](https://github.com/Chaitu0304/Future-Track) | Career roadmap tool guiding students from 10th grade through higher education and careers | JavaScript · HTML · CSS | ⭐ 1 |
+| 3 | 🛒 [**Smart Instore Navigation**](https://github.com/Chaitu0304/Smart-Instore-Navigation) | AI-powered store navigation system (Walmart Sparkathon) — optimizes customer paths through aisles | TypeScript · AI | ⭐ 1 |
+
+### 🔧 All Projects
+
+| # | Project | Description | Tech |
+|---|---------|-------------|------|
+| 4 | 🧮 [**Calculator**](https://github.com/Chaitu0304/Calculator) | Functional calculator with basic operations, Clear and Delete | HTML · CSS · JS |
+| 5 | ✅ [**To-Do List**](https://github.com/Chaitu0304/To-Do-List) | Todo app with LocalStorage persistence | CSS · HTML · JS |
+| 6 | ⚽ [**SportsOcra**](https://github.com/Chaitu0304/SportsOcra) | Live Soccer matches page — upcoming fixtures fetched from a free API | CSS · HTML · JS · Node.js |
+| 7 | 🖥️ [**Chaitu0304**](https://github.com/Chaitu0304/Chaitu0304) | GitHub profile README repository | Markdown |
+
+> 💡 *More projects coming soon — actively building!*
 
 ---
 
 ## 📊 GitHub Analytics
 
+<!-- Auto-updates via GitHub Stats API -->
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chaitu0304&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitu0304&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Chaitu0304&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1f&title_color=9b59f5&icon_color=9b59f5&text_color=c9d1d9&border_radius=12" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitu0304&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=9b59f5&text_color=c9d1d9&border_radius=12&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitu0304&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitu0304&theme=tokyonight&hide_border=true&background=0d0d1f&ring=9b59f5&fire=ff6b6b&currStreakLabel=9b59f5&border_radius=12" />
 
 </div>
 
 <div align="center">
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaitu0304&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
+<!-- Contribution Activity Graph — auto-updates daily -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaitu0304&bg_color=0d0d1f&color=9b59f5&line=6c3db5&point=ffffff&area=true&area_color=2d1b69&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Trophies & Achievements
 
+<!-- Auto-updates as you earn GitHub achievements -->
 <div align="center">
 
-<!-- GitHub Trophies — auto-updates -->
-<img src="https://github-profile-trophy.vercel.app/?username=Chaitu0304&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Chaitu0304&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 </div>
 
-<br/>
+---
 
-| 🎓 Certification | 🏢 Issuer | 📅 Date |
-|-----------------|----------|---------|
+## 📜 Certifications
+
+| 🎓 Certification | 🏢 Issuer | 📅 Issued |
+|----------------|----------|---------|
 | Internshala Student Partner | Internshala | Aug 2025 |
-| Full Stack Developer Bootcamp | GeeksforGeeks | Jun 2025 |
+| Full Stack Developer Bootcamp: Master Frontend to Backend | GeeksforGeeks | Jun 2025 |
 | Git & GitHub | Internshala Trainings | Jun 2025 |
 | Web Development | Internshala Trainings | Mar–Jun 2025 |
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyaalubilli33@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-alubilli-18a686289/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaitu0304)
+[![Email](https://img.shields.io/badge/Email-chaitanyaalubilli33%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyaalubilli33@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaitanya%20Alubilli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-alubilli-18a686289/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Chaitu0304-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaitu0304)
 
 </div>
 
@@ -137,10 +162,10 @@ const chaitanya = {
 
 <div align="center">
 
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:2d1b69,100:0a0a1a&height=100&section=footer" width="100%" />
 
 </div>
