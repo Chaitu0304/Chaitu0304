@@ -1,21 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Chaitanya%20Alubilli&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20Developer%20%7C%20BTech%20CSE%20%7C%20India&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,40:1a0533,70:2d0a5e,100:0d001a&height=210&section=header&text=Chaitanya%20Alubilli&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20B.Tech%20CSE%20%7C%20India&descSize=16&descAlignY=60&animation=fadeIn&fontAlign=50&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&height=45&lines=React+%26+Node.js+Full-Stack+Developer;Scalable+Web+Apps+%7C+Clean+Architecture;Walmart+Sparkathon+2025+Participant;PHP+%7C+MySQL+%7C+JavaScript+%7C+TypeScript;Open+to+Internships+%26+Collaboration" alt="Typing SVG"/>
+<!-- TYPING SVG — Oxanium font, ASCII-only lines, no special chars in lines param -->
+<img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=20&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=640&height=48&lines=React+%26+Node.js+Full-Stack+Developer;Scalable+Web+Architecture+%7C+Clean+Code;Walmart+Sparkathon+2025+Participant;PHP+%7C+MySQL+%7C+JavaScript+%7C+TypeScript;Open+to+Internships+%26+Collaboration" alt="Typing SVG"/>
 
 <br/>
 
+<!-- STATUS BADGES — shields.io only, 100% reliable -->
 <a href="https://github.com/Chaitu0304"><img src="https://komarev.com/ghpvc/?username=Chaitu0304&color=7c3aed&style=flat-square&label=Profile+Views"/></a>&nbsp;
-<a href="https://github.com/Chaitu0304?tab=followers"><img src="https://img.shields.io/github/followers/Chaitu0304?label=Followers&style=flat-square&color=7c3aed&labelColor=0d0d1f"/></a>&nbsp;
+<a href="https://github.com/Chaitu0304?tab=followers"><img src="https://img.shields.io/github/followers/Chaitu0304?label=Followers&style=flat-square&color=7c3aed&labelColor=0a0014"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/chaitanya-alubilli-18a686289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=0d0d1f"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-Available-22c55e?style=flat-square&labelColor=0a0014"/>
 
 </div>
 
+<br/>
+
 ---
 
-## About Me
+<img src="https://img.shields.io/badge/%3C%2F%3E-About%20Me-c084fc?style=flat-square&labelColor=0a0014&logoColor=white" height="28"/>
 
 ```typescript
 const chaitanya = {
@@ -33,12 +38,14 @@ const chaitanya = {
 
 ---
 
-## Tech Stack
+<img src="https://img.shields.io/badge/-%E2%96%A0%20Tech%20Stack-c084fc?style=flat-square&labelColor=0a0014" height="28"/>
 
 <div align="center">
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="Frontend Skills"/>
+**Frontend Development**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="Frontend"/>
+
+<br/>
 
 **Backend · Database · Tools**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,python,typescript,git,github,vscode&theme=dark" alt="Backend and Tools"/>
@@ -47,50 +54,80 @@ const chaitanya = {
 
 ---
 
-## Projects
+<img src="https://img.shields.io/badge/-%E2%96%A0%20Projects-c084fc?style=flat-square&labelColor=0a0014" height="28"/>
 
 <div align="center">
 
 | Project | Description | Stack |
 |:--------|:------------|:-----:|
 | [**PGLife**](https://github.com/Chaitu0304/PGLIFE) | Full-stack platform for students to search and shortlist PG accommodations near colleges and workplaces. Includes user authentication, advanced filters, and a fully responsive UI. | `PHP` `MySQL` `JS` `CSS` |
-| [**Future Track**](https://github.com/Chaitu0304/Future-Track) | Career guidance platform that maps personalised roadmaps for students from 10th grade onwards — helping them choose the right stream and long-term career path. | `JavaScript` `HTML` `CSS` |
-| [**Smart Instore Navigation**](https://github.com/Chaitu0304/Smart-Instore-Navigation) | **Walmart Sparkathon 2025** — AI-powered in-store navigation that computes the shortest path through store aisles to every item in a customer's wishlist. | `TypeScript` `AI` |
-| [**SportsOcra**](https://github.com/Chaitu0304/SportsOcra) | Live soccer fixture tracker that fetches upcoming match schedules from a public sports API and renders them on a clean, responsive page in real time. | `JS` `Node.js` `CSS` |
-| [**Calculator**](https://github.com/Chaitu0304/Calculator) | Clean, keyboard-friendly calculator with standard arithmetic, clear, and delete operations — built in vanilla JavaScript. | `HTML` `CSS` `JS` |
-| [**To-Do List**](https://github.com/Chaitu0304/To-Do-List) | Productivity task manager with add, complete, and delete features. All tasks persist across browser sessions using LocalStorage. | `HTML` `CSS` `JS` |
+| [**Future Track**](https://github.com/Chaitu0304/Future-Track) | Career guidance platform mapping personalised roadmaps for students from 10th grade — helping them choose the right stream and long-term career path. | `JavaScript` `HTML` `CSS` |
+| [**Smart Instore Navigation**](https://github.com/Chaitu0304/Smart-Instore-Navigation) | **Walmart Sparkathon 2025** — AI-powered navigation that computes the shortest path through store aisles to every item in a customer's wishlist. | `TypeScript` `AI` |
+| [**SportsOcra**](https://github.com/Chaitu0304/SportsOcra) | Live soccer fixture tracker fetching upcoming match schedules from a public sports API and rendering them on a clean responsive interface. | `JS` `Node.js` `CSS` |
+| [**Calculator**](https://github.com/Chaitu0304/Calculator) | Clean, keyboard-friendly calculator with standard arithmetic, clear, and delete — built in vanilla JavaScript. | `HTML` `CSS` `JS` |
+| [**To-Do List**](https://github.com/Chaitu0304/To-Do-List) | Task manager with add, complete, and delete. All tasks persist across sessions via LocalStorage. | `HTML` `CSS` `JS` |
 
 </div>
 
 ---
 
-## GitHub Analytics
+<img src="https://img.shields.io/badge/-%E2%96%A0%20GitHub%20Analytics-c084fc?style=flat-square&labelColor=0a0014" height="28"/>
 
+<!-- ANALYTICS: shields.io dynamic badges pull from GitHub public API — zero auth needed, 99.99% uptime -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chaitu0304&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1f&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10&cache_seconds=86400" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitu0304&layout=compact&langs_count=7&hide_border=true&bg_color=0d0d1f&title_color=a78bfa&text_color=c9d1d9&border_radius=10&cache_seconds=86400" alt="Top Languages"/>
+<img src="https://img.shields.io/github/stars/Chaitu0304?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=c084fc&labelColor=0a0014&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/github/repos/Chaitu0304?style=for-the-badge&logo=github&label=Repositories&color=c084fc&labelColor=0a0014&logoColor=white" onerror="this.style.display='none'"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChaitu0304&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20Repos&color=c084fc&labelColor=0a0014&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChaitu0304&query=%24.followers&style=for-the-badge&logo=github&label=Followers&color=c084fc&labelColor=0a0014&logoColor=white"/>
 
-<br/><br/>
+</div>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=Chaitu0304&theme=tokyonight&hide_border=true&background=0D0D1F&ring=A78BFA&fire=F87171&currStreakLabel=A78BFA&sideLabels=A78BFA&border_radius=10" alt="GitHub Streak"/>
+<br/>
 
-<br/><br/>
+<!-- Per-repo stats using shields.io — always accurate, never rate-limited -->
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaitu0304&bg_color=0d0d1f&color=a78bfa&line=7c3aed&point=e2e8f0&area=true&area_color=2d1b69&hide_border=true&radius=6" width="100%" alt="Activity Graph"/>
+**Repository Activity**
 
+<a href="https://github.com/Chaitu0304/PGLIFE"><img src="https://img.shields.io/github/last-commit/Chaitu0304/PGLIFE?style=flat-square&label=PGLife&color=7c3aed&labelColor=0a0014&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/Chaitu0304/Future-Track"><img src="https://img.shields.io/github/last-commit/Chaitu0304/Future-Track?style=flat-square&label=Future+Track&color=7c3aed&labelColor=0a0014&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/Chaitu0304/Smart-Instore-Navigation"><img src="https://img.shields.io/github/last-commit/Chaitu0304/Smart-Instore-Navigation?style=flat-square&label=Smart+Instore+Nav&color=7c3aed&labelColor=0a0014&logo=github&logoColor=white"/></a>
+
+<br/>
+
+<a href="https://github.com/Chaitu0304/SportsOcra"><img src="https://img.shields.io/github/last-commit/Chaitu0304/SportsOcra?style=flat-square&label=SportsOcra&color=7c3aed&labelColor=0a0014&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/Chaitu0304/Calculator"><img src="https://img.shields.io/github/last-commit/Chaitu0304/Calculator?style=flat-square&label=Calculator&color=7c3aed&labelColor=0a0014&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/Chaitu0304/To-Do-List"><img src="https://img.shields.io/github/last-commit/Chaitu0304/To-Do-List?style=flat-square&label=To-Do+List&color=7c3aed&labelColor=0a0014&logo=github&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<!-- STREAK STATS — demolab.com, most reliable streak service available -->
+<div align="center">
+<img width="62%" src="https://streak-stats.demolab.com?user=Chaitu0304&theme=tokyonight&hide_border=true&background=0A0014&ring=C084FC&fire=F87171&currStreakLabel=C084FC&sideLabels=C084FC&dates=94A3B8&stroke=1a0533&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH — vercel.app deployment, stable -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaitu0304&bg_color=0a0014&color=c084fc&line=7c3aed&point=e2e8f0&area=true&area_color=1a0533&hide_border=true&radius=6" width="100%" alt="Contribution Activity Graph"/>
 </div>
 
 ---
 
-## Certifications & Achievements
+<img src="https://img.shields.io/badge/-%E2%96%A0%20Certifications-c084fc?style=flat-square&labelColor=0a0014" height="28"/>
 
 <div align="center">
 
 | Achievement | Organization | Date |
 |:------------|:------------:|:----:|
-| Walmart Sparkathon — AI In-Store Navigation (Team Project) | Walmart India | 2025 |
+| Walmart Sparkathon — AI In-Store Navigation (Team) | Walmart India | 2025 |
 | Internshala Student Partner | Internshala | Aug 2025 |
 | Full Stack Developer Bootcamp — Frontend to Backend | GeeksforGeeks | Jun 2025 |
 | Git & GitHub | Internshala Trainings | Jun 2025 |
@@ -100,7 +137,7 @@ const chaitanya = {
 
 ---
 
-## Connect
+<img src="https://img.shields.io/badge/-%E2%96%A0%20Connect-c084fc?style=flat-square&labelColor=0a0014" height="28"/>
 
 <div align="center">
 
@@ -120,7 +157,7 @@ const chaitanya = {
 <br/><br/>
 
 Open to **internships**, **freelance projects**, and **open source collaboration**.<br/>
-Feel free to reach out — I respond fast.
+Reach out — I respond fast.
 
 </div>
 
@@ -132,6 +169,6 @@ Feel free to reach out — I respond fast.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,40:1a0533,70:2d0a5e,100:0d001a&height=110&section=footer" width="100%"/>
 
 </div>
