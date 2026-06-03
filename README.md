@@ -69,21 +69,31 @@ const chaitanya = {
 
 ## 🚀 Projects
 
-<div align="center">
+> Auto-updated via GitHub Actions · Last refresh: 2026-06-03
 
-| Project | Description | Tech Stack |
-|:--------|:------------|:----------:|
-| 🏠 [**PGLife**](https://github.com/Chaitu0304/PGLIFE) | Full-stack web app for students to search and shortlist PG accommodations near colleges and workplaces. Features user auth, filters, and responsive UI. | `PHP` `MySQL` `JS` `CSS` |
-| 🗺️ [**Future Track**](https://github.com/Chaitu0304/Future-Track) | Career guidance platform mapping personalised roadmaps for students from 10th grade onwards — helping them pick the right stream and career path. | `JavaScript` `HTML` `CSS` |
-| 🛒 [**Smart Instore Navigation**](https://github.com/Chaitu0304/Smart-Instore-Navigation) | **Walmart Sparkathon 2025** — AI-powered navigation system that computes the optimal path through store aisles to a customer's wishlist items. | `TypeScript` `AI` |
-| ⚽ [**SportsOcra**](https://github.com/Chaitu0304/SportsOcra) | Real-time soccer fixture tracker that fetches upcoming match schedules from a public sports API and displays them on a clean responsive page. | `JavaScript` `Node.js` `CSS` |
-| 🧮 [**Calculator**](https://github.com/Chaitu0304/Calculator) | Minimal, keyboard-friendly calculator with standard arithmetic, Clear, and Delete operations built in vanilla JS. | `HTML` `CSS` `JS` |
-| ✅ [**To-Do List**](https://github.com/Chaitu0304/To-Do-List) | Productivity task manager with add, complete, and delete features — tasks persist across sessions via LocalStorage. | `HTML` `CSS` `JS` |
+### 🌟 Featured Projects
 
-</div>
+| # | Project | Description | Tech | Stars |
+|---|---------|-------------|------|-------|
+| 1  🐘 [**PGLIFE**](https://github.com/Chaitu0304/PGLIFE) | PG Life is a full-stack web application built as a hands-on project to demonstrate practical skills in web development using HTML, CSS, JavaScript, PHP, and MySQL. It provides a user-friendly platform for students to explore and express interest in PG accommodations based on location and preferences. | PHP | ⭐ 1 |
+| 2  🟨 [**Future-Track**](https://github.com/Chaitu0304/Future-Track) | — | JavaScript | ⭐ 1 |
+| 3  🔷 [**Smart-Instore-Navigation**](https://github.com/Chaitu0304/Smart-Instore-Navigation) | — | TypeScript | ⭐ 1 |
 
-> 🔨 Actively building — new projects dropping soon. **Star a repo** if you find it useful!
+### 🔧 All Other Projects
 
+| # | Project | Description | Tech |
+|---|---------|-------------|------|
+| 4  🔷 [**BigLogic-D3**](https://github.com/Chaitu0304/BigLogic-D3) | — | TypeScript | — |
+| 5  🔷 [**Jennifer_Rankin**](https://github.com/Chaitu0304/Jennifer_Rankin) | — | TypeScript | — |
+| 6  🔷 [**BIgLogic-D2**](https://github.com/Chaitu0304/BIgLogic-D2) | — | TypeScript | — |
+| 7  🔷 [**BigLogic_D1**](https://github.com/Chaitu0304/BigLogic_D1) | — | TypeScript | — |
+| 8  🟨 [**AI-Screenshot-Organizer**](https://github.com/Chaitu0304/AI-Screenshot-Organizer) | I noticed I waste time searching through screenshots for coding errors, payment receipts, and notes, so I automated screenshot classification and organization using OCR and AI-based tagging. | JavaScript | — |
+| 9  🔷 [**Campus-Thrift**](https://github.com/Chaitu0304/Campus-Thrift) | Campus Thrift is a student marketplace platform where college seniors can sell used academic items (books, calculators, lab coats, notes, stationery, hostel essentials, etc.) to juniors at affordable prices within the same campus. | TypeScript | — |
+| 10  🌐 [**Calculator**](https://github.com/Chaitu0304/Calculator) | A basic calculator using HTML, CSS and JavaScript with basic operations, Clear and Delete functions | HTML | ⭐ 1 |
+| 11  🎨 [**To-Do-List**](https://github.com/Chaitu0304/To-Do-List) | A To-Do-List using HTML, CSS and JavaScript with LocalStorage | CSS | ⭐ 1 |
+| 12  🎨 [**SportsOcra**](https://github.com/Chaitu0304/SportsOcra) | A basic webpage displaying a list of upcoming matches for a specific sport Soccer fetched from a freely available API | CSS | — |
+
+> 💡 *More projects coming soon — actively building!*
 ---
 
 ## 📊 GitHub Analytics
