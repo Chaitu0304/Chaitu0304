@@ -75,27 +75,31 @@ const chaitanya: Developer = {
 
 ## 🚀 Projects
 
-> All repositories on my GitHub — from full-stack platforms to mini tools.
+> Auto-updated via GitHub Actions · Last refresh: 2026-06-03
 
 ### 🌟 Featured Projects
 
 | # | Project | Description | Tech | Stars |
 |---|---------|-------------|------|-------|
-| 1 | 🏠 [**PGLife**](https://github.com/Chaitu0304/PGLIFE) | Full-stack platform helping students find PG accommodations near college or work | PHP · MySQL · JS · CSS | ⭐ 1 |
-| 2 | 🗺️ [**Future Track**](https://github.com/Chaitu0304/Future-Track) | Career roadmap tool guiding students from 10th grade through higher education and careers | JavaScript · HTML · CSS | ⭐ 1 |
-| 3 | 🛒 [**Smart Instore Navigation**](https://github.com/Chaitu0304/Smart-Instore-Navigation) | AI-powered store navigation system (Walmart Sparkathon) — optimizes customer paths through aisles | TypeScript · AI | ⭐ 1 |
+| 1  🐘 [**PGLIFE**](https://github.com/Chaitu0304/PGLIFE) | PG Life is a full-stack web application built as a hands-on project to demonstrate practical skills in web development using HTML, CSS, JavaScript, PHP, and MySQL. It provides a user-friendly platform for students to explore and express interest in PG accommodations based on location and preferences. | PHP | ⭐ 1 |
+| 2  🟨 [**Future-Track**](https://github.com/Chaitu0304/Future-Track) | — | JavaScript | ⭐ 1 |
+| 3  🔷 [**Smart-Instore-Navigation**](https://github.com/Chaitu0304/Smart-Instore-Navigation) | — | TypeScript | ⭐ 1 |
 
-### 🔧 All Projects
+### 🔧 All Other Projects
 
 | # | Project | Description | Tech |
 |---|---------|-------------|------|
-| 4 | 🧮 [**Calculator**](https://github.com/Chaitu0304/Calculator) | Functional calculator with basic operations, Clear and Delete | HTML · CSS · JS |
-| 5 | ✅ [**To-Do List**](https://github.com/Chaitu0304/To-Do-List) | Todo app with LocalStorage persistence | CSS · HTML · JS |
-| 6 | ⚽ [**SportsOcra**](https://github.com/Chaitu0304/SportsOcra) | Live Soccer matches page — upcoming fixtures fetched from a free API | CSS · HTML · JS · Node.js |
-| 7 | 🖥️ [**Chaitu0304**](https://github.com/Chaitu0304/Chaitu0304) | GitHub profile README repository | Markdown |
+| 4  🔷 [**BigLogic-D3**](https://github.com/Chaitu0304/BigLogic-D3) | — | TypeScript | — |
+| 5  🔷 [**Jennifer_Rankin**](https://github.com/Chaitu0304/Jennifer_Rankin) | — | TypeScript | — |
+| 6  🔷 [**BIgLogic-D2**](https://github.com/Chaitu0304/BIgLogic-D2) | — | TypeScript | — |
+| 7  🔷 [**BigLogic_D1**](https://github.com/Chaitu0304/BigLogic_D1) | — | TypeScript | — |
+| 8  🟨 [**AI-Screenshot-Organizer**](https://github.com/Chaitu0304/AI-Screenshot-Organizer) | I noticed I waste time searching through screenshots for coding errors, payment receipts, and notes, so I automated screenshot classification and organization using OCR and AI-based tagging. | JavaScript | — |
+| 9  🔷 [**Campus-Thrift**](https://github.com/Chaitu0304/Campus-Thrift) | Campus Thrift is a student marketplace platform where college seniors can sell used academic items (books, calculators, lab coats, notes, stationery, hostel essentials, etc.) to juniors at affordable prices within the same campus. | TypeScript | — |
+| 10  🌐 [**Calculator**](https://github.com/Chaitu0304/Calculator) | A basic calculator using HTML, CSS and JavaScript with basic operations, Clear and Delete functions | HTML | ⭐ 1 |
+| 11  🎨 [**To-Do-List**](https://github.com/Chaitu0304/To-Do-List) | A To-Do-List using HTML, CSS and JavaScript with LocalStorage | CSS | ⭐ 1 |
+| 12  🎨 [**SportsOcra**](https://github.com/Chaitu0304/SportsOcra) | A basic webpage displaying a list of upcoming matches for a specific sport Soccer fetched from a freely available API | CSS | — |
 
 > 💡 *More projects coming soon — actively building!*
-
 ---
 
 ## 📊 GitHub Analytics
